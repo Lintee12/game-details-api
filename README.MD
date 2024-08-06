@@ -4,6 +4,6 @@
 
 # Endpoints
 
-## Search - GET /search/{query}
+### Search - GET /search/{query}
 
-## Details - GET /details/{slug} (get slug from search endpoint)
+### Details - GET /details/{slug} (get slug from search endpoint)
